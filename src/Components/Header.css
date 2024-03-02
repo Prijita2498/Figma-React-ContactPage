@@ -1,0 +1,22 @@
+.nav-container{
+    height:72px;
+    max-width: 1600px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-items{
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    float: right;
+    
+}
+
+.nav-items li{
+    font-size: 16px;
+    font-weight: 900;
+    color: #2E2E2E;
+}
